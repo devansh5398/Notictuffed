@@ -1,0 +1,17 @@
+qwertyuiop
+lkjhgfdsa	dfhfghbc
+fghfdbz
+gghnfgn
+gfhfbc <dzfgd>dghs
+
+ fgh   hsf  sfjf                Hello Text Editor
+
+                            IIT ISM DHANBAD, JHARKHAND
+
+         This is to check whether this text editor can be used as a noticeboard.
+	We have to use line breaks if we want to see that content in next line or else no wrapping will occur.
+	As in previous line didn't occur.
+
+                                                                         Regards,
+                                                                       Name of Director.
+                                                                       Director.

@@ -1,0 +1,34 @@
+<div class="col-lg-6 float-lg-left pr-lg-4 pt-5 px-5 pb-0">
+    <div style="border:0.15rem solid #007BFF; border-radius:1rem;" class="p-3 box">
+      <div style="font-size:1.4rem;" class=""><strong>Subject of the Notice Subject of the Notice Subject</strong></div>
+      <div style="font-size:0.9rem;" class="text-right pt-1 pb-2">
+        <span class="text-info mx-1 mx-sm-3" data-toggle="popover" data-trigger="hover" data-placement="bottom" data-content="@username, About the author">by Name of someone</span>
+        <span class="text-secondary mx-1 mx-sm-3">on Date and big time</span>
+      </div>
+      <textarea style="resize:none; white-space:pre; font-size:0.8em;" class="t1 form-control border-0" name="text" rows="22" readonly><?php echo htmlspecialchars($text) ?></textarea>
+    </div>
+  </div>
+
+
+<div class="col-lg-6 float-lg-left pr-lg-4 pt-5 px-5 pb-0">
+    <div style="border:0.15rem solid #007BFF; border-radius:1rem;" class="p-3 box">
+      <div style="font-size:1.4rem;" class=""><strong>Subject of the Notice Subject of the Notice Subject</strong></div>
+      <div style="font-size:0.9rem;" class="text-right pt-1 pb-2">
+        <span class="text-info mx-1 mx-sm-3" data-toggle="popover" data-trigger="hover" data-placement="bottom" data-content="@username, About the author">by Name of someone</span>
+        <span class="text-secondary mx-1 mx-sm-3">on Date and big time</span>
+      </div>
+      <textarea style="resize:none; white-space:pre; font-size:0.8em;" class="t1 form-control border-0" name="text" rows="22" readonly><?php echo htmlspecialchars($text) ?></textarea>
+    </div>
+  </div>
+
+
+<div class="col-lg-6 float-lg-left pr-lg-4 pt-5 px-5 pb-0">
+    <div style="border:0.15rem solid #007BFF; border-radius:1rem;" class="p-3 box">
+      <div style="font-size:1.4rem;" class=""><strong>Subject of the Notice Subject of the Notice Subject</strong></div>
+      <div style="font-size:0.9rem;" class="text-right pt-1 pb-2">
+        <span class="text-info mx-1 mx-sm-3" data-toggle="popover" data-trigger="hover" data-placement="bottom" data-content="@username, About the author">by Name of someone</span>
+        <span class="text-secondary mx-1 mx-sm-3">on Date and big time</span>
+      </div>
+      <textarea style="resize:none; white-space:pre; font-size:0.8em;" class="t1 form-control border-0" name="text" rows="22" readonly><?php echo htmlspecialchars($text) ?></textarea>
+    </div>
+  </div>

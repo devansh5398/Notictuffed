@@ -1,0 +1,9 @@
+What is Mole?
+
+Atoms and molecules are too small to count. To solve this problem their numbers are expressed in terms of Avogadro’s number (NA = 6.023 1023). 
+Mole is the number equal to Avogadro’s number just like a dozen is equal to 12, a century means 100, a score means = 20.
+
+Mole can be defined as  a unit which represents 6.023 x1023 particles of same matter.
+
+A mole (symbol mol) is defined as the amount of substance that contains as many atoms, molecules, ions, electrons 
+or any other elementary entities as there are carbon atoms in exactly 12 gm of. The number of atoms in 12 gm of is called Avogadro’s number.

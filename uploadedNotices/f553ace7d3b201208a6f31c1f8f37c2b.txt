@@ -1,0 +1,17 @@
+How To Create a Popover ?
+
+To create a popover, add the data-toggle="popover" attribute to an element.
+
+Use the title attribute to specify the header text of the popover, 
+and use the data-content attribute to specify the text that should be displayed inside the popover's body:
+
+<a href="#" data-toggle="popover" title="Popover Header" data-content="Some content inside the popover">Toggle popover</a>
+Note: Popovers must be initialized with jQuery: select the specified element and call the popover() method.
+
+The following code will enable all popovers in the document:
+
+<script>
+$(document).ready(function(){
+  $('[data-toggle="popover"]').popover(); 
+});
+</script>
