@@ -22,3 +22,5 @@ Admins and students log in using their username/email and password.
 Option of ‘Forgot Password’ is also available which allows you to reset your account by sending password reseting code to your registered e-mail address.
 
 Logged in home page shows all notices from all admins with most recent one at the top.
+
+You can grab some of the accounts of Admins as well as Students created beforehand from 'Username & Password' file provided.
