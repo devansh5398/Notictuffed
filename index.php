@@ -67,7 +67,7 @@
       </div><br>
       <div style="font-family: 'Caveat', 'Times New Roman', cursive; font-size: 1.5rem;" class="intro_body col-lg-8 col-md-9 col-sm-10 p-0 mx-auto">
         <div class="l1 bg-primary text-white rounded mb-4 px-3">Isn't it a headache to see all important notices on a small messy noticeboard?</div>
-        <div class="l2 bg-warning rounded mb-4 px-3">But there is another pretty easier way to check all of your college notices in one go i.e. using <strong>Notictuffed</strong>.</div>
+        <div class="l2 bg-warning rounded mb-4 px-3">But there is another pretty easier way to check all of your college notices in one go i.e. using <strong>WebNotices</strong>.</div>
         <div class="l3 bg-danger text-white rounded px-3">So, get started by <strong><a href="student_signup.php" style="text-decoration:none; color:#293462">Signing up</a></strong>
           to fetch all notices of academics, club activities, sports activities, placements and much more.</div>
       </div><br>
